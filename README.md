@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# Kalam Dev Tools
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Live Site:** [https://kalamdevtools.netlify.app](https://kalamdevtools.netlify.app)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+**Kalam Dev Tools** is a web-based collection of development utilities built with React.js. It provides developers with quick and easy tools to streamline common coding tasks and enhance productivity.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Multiple development utilities in one platform
+- Responsive and user-friendly interface
+- Real-time tool outputs
+- Easy access via browser (no installation required)
+- Lightweight and fast
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+# Kalam Dev Tools
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2e6fef7-1310-4a34-a4c9-32f0e9980439/deploy-status)](https://kalamdevtools.netlify.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Live Site:** [https://kalamdevtools.netlify.app](https://kalamdevtools.netlify.app)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Overview
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Kalam Dev Tools** is a web-based collection of development utilities built with React.js. It provides developers with quick and easy tools to streamline common coding tasks and enhance productivity.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Multiple development utilities in one platform
+- Responsive and user-friendly interface
+- Real-time tool outputs
+- Easy access via browser (no installation required)
+- Lightweight and fast
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Tools List
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Here are the tools currently available on Kalam Dev Tools:
 
-### Code Splitting
+| Icon | Name | Description | Category |
+|------|------|-------------|----------|
+| 🗃️ | SQL Visualizer | Visualize database relationships and SQL query structure | Database |
+| 🗄️ | Database Schema Design | Visually design tables, relationships, and generate SQL migrations instantly | Database |
+| 🎨 | CSS Animation Sandbox | Experiment with CSS animations in real-time with live preview | Frontend |
+| 📱 | CSS Responsive Debugger | Debug and test responsive designs across different screen sizes | Frontend |
+| ♿ | Accessibility-Checker | Scans HTML for missing alts, ARIA issues, poor contrast, and labeling errors | Frontend |
+| 🔍 | Regex Playground | Test and debug regular expressions with real-time matching | Text Processing |
+| 📝 | Text Diff & Merge | Compare text files and visualize differences side by side | Text Processing |
+| 🛠️ | Error Message Translator | Translate error messages into simple, understandable language instantly | Development |
+| 🔧 | Git Commit Helper | Generate conventional commit messages and manage git workflows | Development |
+| 📋 | JWT Inspector | View header, payload, expiry, and claims in a readable format | Security |
+| 🛡️ | Security Header Analyzer | Check website security headers (CSP, HSTS, XSS protection) and get a grade | Security |
+| 🌐 | API Flow Visualizer | Visualize and document API request/response flows | API Tools |
+| ⚡ | JSON Transformer | Format, validate, and transform JSON data structures | Data Tools |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+*(More tools may be added in future updates.)*
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Tech Stack
 
-### Making a Progressive Web App
+- **Frontend:** React.js
+- **Styling:** CSS / Tailwind
+- **Deployment:** Netlify
+- **Version Control:** Git / GitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Installation (Development)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+To run the project locally:
 
-### Deployment
+1. Clone the repository:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+    ```bash
+    git clone https://github.com/<your-username>/kalamdevtools.git
+    ```
 
-### `npm run build` fails to minify
+2. Navigate into the project directory:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    ```bash
+    cd kalamdevtools
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm start
+    ```
+The app will be available at http://localhost:3000.
+
+
