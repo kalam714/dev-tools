@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional highlight style for matches */
+mark {
+  background-color: #fde68a; /* yellow */
+  color: black;
+  padding: 0 2px;
+  border-radius: 2px;
+}
