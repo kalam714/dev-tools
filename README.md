@@ -20,30 +20,6 @@
 
 ---
 
-# Kalam Dev Tools
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b2e6fef7-1310-4a34-a4c9-32f0e9980439/deploy-status)](https://kalamdevtools.netlify.app/)
-
-**Live Site:** [https://kalamdevtools.netlify.app](https://kalamdevtools.netlify.app)
-
----
-
-## Overview
-
-**Kalam Dev Tools** is a web-based collection of development utilities built with React.js. It provides developers with quick and easy tools to streamline common coding tasks and enhance productivity.
-
----
-
-## Features
-
-- Multiple development utilities in one platform
-- Responsive and user-friendly interface
-- Real-time tool outputs
-- Easy access via browser (no installation required)
-- Lightweight and fast
-
----
-
 ## Tools List
 
 Here are the tools currently available on Kalam Dev Tools:
